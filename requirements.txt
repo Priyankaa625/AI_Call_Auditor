@@ -4,6 +4,7 @@ python-dotenv>=1.0.0
 pandas>=2.1.0
 
 # Audio Processing (CPU Friendly)
+git+https://github.com/narcotic-sh/senko.git
 openai-whisper
 pydub
 
